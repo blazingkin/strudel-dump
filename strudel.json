@@ -1,5 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/blazingkin/strudel-dump/main/",
+  "sound_experience": "sound_experience.wav",
   "laugh1": "laugh1.wav",
   "laugh2": "laugh2.wav"
 }
