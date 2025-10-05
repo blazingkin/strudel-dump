@@ -1,6 +1,24 @@
 {
-  "_base": "https://raw.githubusercontent.com/blazingkin/strudel-dump/main/",
-  "sound_experience": "sound_experience.wav",
-  "laugh1": "laugh1.wav",
-  "laugh2": "laugh2.wav"
+        "_base": "http://localhost:5432/",
+        
+"hollow_drums": "hollow_drums.wav",
+"ワクワク": "ワクワク.wav",
+"synth_beat": "synth_beat.wav",
+"bass_groove": "bass_groove.wav",
+"intro": "intro.wav",
+"恋にしちゃったんだ": "恋にしちゃったんだ.wav",
+"ahah": "ahah.wav",
+"苦手だった": "苦手だった.wav",
+"note_building": "note_building.wav",
+"wakuwaku": "wakuwaku.wav",
+"laugh1": "laugh1.wav",
+"synth_tension": "synth_tension.wav",
+"note_falling": "note_falling.wav",
+"laugh2": "laugh2.wav",
+"sound_experience": "sound_experience.wav",
+"laugh3": "laugh3.wav",
+"strings": "strings.wav",
+"君へのメッセージ": "君へのメッセージ.wav",
+
+"_fake": "_fake"
 }

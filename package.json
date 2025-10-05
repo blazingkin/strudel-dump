@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@strudel/sampler": "^0.2.3"
+  }
+}
